@@ -104,6 +104,9 @@ a {
 @media (max-width: 768px) {
     body {
         background-image: url('img/bg.jpg');
+        height: 96vh;
+        background-repeat: no-repeat;
+        background-size: cover;
     }
 }
 
@@ -114,7 +117,7 @@ body {
 }
 
 img {
-    width : 90px;
+    width: 90px;
 }
 
 .star {
