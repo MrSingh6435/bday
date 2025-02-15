@@ -184,7 +184,7 @@ img {
     position: relative;
     background-color: #5d5fb9;
     background: linear-gradient(#173e85, #7ed2ff);
-    background: linear-gradient(#173e85, cyan);
+    /* background: linear-gradient(#173e85, cyan); */
     width: 250px;
     height: 350px;
     overflow: hidden;
